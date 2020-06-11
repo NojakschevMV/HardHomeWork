@@ -7,7 +7,7 @@ function editLine(str) {
       console.log(str2.substr(0, 30) + "...");
     }
   } else {
-    console.log("В качестве аргумента передана не строка!");
+    console.log("В качестве аргумента передана не строка");
   }
 }
 //editLine('Bheflerkgmdflkgdfngndfjbndflknblfdnblknfdbndskfbgkdfkndfknbkdfnbkdsfkbnsdkfnbkdnbksdfkbjsdfb');
